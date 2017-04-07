@@ -1,0 +1,14 @@
+uuid: 6b5154b1-a4f9-436a-b627-4cad5fbe4a0a
+name: 'Coop Fund'
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: pl
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo

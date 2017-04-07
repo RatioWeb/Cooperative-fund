@@ -1,0 +1,9 @@
+uuid: 98d60bc6-3674-4698-be70-ccce010601a9
+langcode: en
+status: true
+dependencies: {  }
+id: pl
+label: Polish
+direction: ltr
+weight: 1
+locked: false
