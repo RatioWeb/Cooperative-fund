@@ -19,5 +19,3 @@ backend/sites/default/settings.local.php
 .idea
 .eclipse
 .nbproject
-
-backend/themes/custom/purcosmetics/css/
