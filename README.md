@@ -9,3 +9,7 @@ Web Application to count Cooperative contributions and wages. Application will b
 
 ## Front-end based on VueJs
 
+     ``cd app``
+     ``npm install``
+     ``npm run dev``
+
