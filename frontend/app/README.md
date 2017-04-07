@@ -1,4 +1,4 @@
-# coopfund
+# Cooperative found front-end
 
 > Calculator for contribution for cooprative members
 
